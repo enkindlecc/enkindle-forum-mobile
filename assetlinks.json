@@ -1,0 +1,22 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { 
+      "namespace": "android_app", 
+      "package_name": "guide.enkindle.forum.twa",
+      "sha256_cert_fingerprints": [
+        "8D:42:22:39:18:4B:FC:4C:79:A8:2C:BF:80:EC:05:D1:C6:8C:33:C5:43:02:48:53:75:24:A1:F0:08:02:5C:2B"
+      ] 
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { 
+      "namespace": "android_app", 
+      "package_name": "guide.enkindle.forum.twa",
+      "sha256_cert_fingerprints": [
+        "35:F7:E7:2F:AD:6A:73:C6:A4:63:5A:90:BD:69:98:F3:30:DC:A1:81:4A:B0:C7:E2:B1:AC:7E:72:2B:9D:EC:6B"
+      ] 
+    }
+  }  
+]
