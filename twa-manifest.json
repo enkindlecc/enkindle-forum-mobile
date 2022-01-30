@@ -12,8 +12,8 @@
   "backgroundColor": "#FFFFFF",
   "enableNotifications": true,
   "startUrl": "/",
-  "iconUrl": "http://forum.enkindle.guide/uploads/default/optimized/1X/dc5356449b85a52ee41e934912db26866f697891_2_512x512.png",
-  "maskableIconUrl": "http://forum.enkindle.guide/uploads/default/optimized/1X/dc5356449b85a52ee41e934912db26866f697891_2_512x512.png",
+  "iconUrl": "http://forum.enkindle.guide/uploads/default/optimized/1X/898300e29cca6cb2b97b2049e4827d386ea23652_2_512x512.png",
+  "maskableIconUrl": "http://forum.enkindle.guide/uploads/default/optimized/1X/898300e29cca6cb2b97b2049e4827d386ea23652_2_512x512.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
     "path": "/home/kapil/projects/enkindle-forum-mobile/android.keystore",
@@ -40,7 +40,7 @@
       "text": "body"
     }
   },
-  "orientation": "default",
+  "orientation": "portrait",
   "fingerprints": [],
   "additionalTrustedOrigins": [],
   "retainedBundles": [],
