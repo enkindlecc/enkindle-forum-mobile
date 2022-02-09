@@ -1,4 +1,4 @@
-#Thu Feb 03 08:40:21 IST 2022
+#Wed Feb 09 09:18:16 IST 2022
 base.0=/home/kapil/projects/enkindle-forum-mobile/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

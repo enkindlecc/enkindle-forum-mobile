@@ -12,15 +12,15 @@
   "backgroundColor": "#FFFFFF",
   "enableNotifications": true,
   "startUrl": "/",
-  "iconUrl": "http://forum.enkindle.guide/uploads/default/optimized/1X/ff3b1b4b11fbd1c7c7bb5c3c210f0e44c1ddeb94_2_512x512.png",
-  "maskableIconUrl": "http://forum.enkindle.guide/uploads/default/optimized/1X/ff3b1b4b11fbd1c7c7bb5c3c210f0e44c1ddeb94_2_512x512.png",
+  "iconUrl": "http://forum.enkindle.guide/uploads/default/optimized/1X/0c1cb78a453d1294803c97eb32f185c3e33eb9df_2_512x512.png",
+  "maskableIconUrl": "http://forum.enkindle.guide/uploads/default/optimized/1X/0c1cb78a453d1294803c97eb32f185c3e33eb9df_2_512x512.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
     "path": "/home/kapil/projects/enkindle-forum-mobile/android.keystore",
     "alias": "android"
   },
-  "appVersionName": "3",
-  "appVersionCode": 3,
+  "appVersionName": "4",
+  "appVersionCode": 4,
   "shortcuts": [],
   "generatorApp": "bubblewrap-cli",
   "webManifestUrl": "https://forum.enkindle.guide/manifest.json",
@@ -44,5 +44,5 @@
   "fingerprints": [],
   "additionalTrustedOrigins": [],
   "retainedBundles": [],
-  "appVersion": "3"
+  "appVersion": "4"
 }
